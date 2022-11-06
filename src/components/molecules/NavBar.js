@@ -18,7 +18,11 @@ const pages = [
   {
     title: 'MY NFTs Collections',
     href: '/my-nfts'
-  4}
+  },
+  {
+    title: 'About',
+    href: '/about'
+  }
 ]
 
 const NavBar = () => {
