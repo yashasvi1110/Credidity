@@ -4,8 +4,6 @@ import { ethers } from 'ethers'
 import NFT from '../../../artifacts/contracts/NFT.sol/NFT.json'
 import Market from '../../../artifacts/contracts/Marketplace.sol/Marketplace.json'
 import axios from 'axios'
-
-
 const contextDefaultValues = {
   account: '',
   network: 'maticmum',
