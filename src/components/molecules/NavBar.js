@@ -18,10 +18,6 @@ const pages = [
   {
     title: 'MY NFTs Collections',
     href: '/my-nfts'
-  },
-  {
-    title: 'About',
-    href: '/about'
   }
 ]
 
