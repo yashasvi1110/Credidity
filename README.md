@@ -4,7 +4,7 @@
 [![https://img.shields.io/badge/made%20with-nextjs-blue](https://img.shields.io/badge/made%20with-nextjs-blue)](https://nextjs.org/)
 
 This is a fullstack DApp NFT Marketplace.  
-Made with NodeJS, Hardhat, Solidity, ReactJS, NextJS and Vercel.
+Made with NodeJS, Hardhat, Solidity, NextJS and Vercel.
 
 # Market basic actions
 
